@@ -10,7 +10,7 @@
 
 - 👩‍💻 My interest lies in **Data Science**, **Machine Learning** and **Quant**.
 - 💪 I'm currently working on many different *ML projects*
-- 👨‍💻 All of my projects are available at [https://richmondsin.vercel.app/](https://richmondsin.vercel.app/)
+- 👨‍💻 All of my projects are available <a href="https://richmondsin.vercel.app/" target="_blank">here</a>.
 - 🌴 Fun Fact: I love to sit in the park and appreciate nature
 - ✨ Hobbies: I love *long distance running* and *swimming*
 
