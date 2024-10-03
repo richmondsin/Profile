@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richmond Sin</h1>
-<h3 align="center">A passionate full-stack Developer/Data Scientist from Singapore 🇸🇬</h3>
+<h3 align="center">A passionate full-stack Data Scientist from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richmondsin&label=Profile%20views&color=0e75b6&style=flat" alt="richmondsin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richmondsin" alt="richmondsin" /></a> </p>
 
 - 🔭 I’m currently working on [Sparse Autoencoder](https://github.com/YaNgZhAnG-V5/sae_language_bias)
 
