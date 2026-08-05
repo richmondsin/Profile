@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richmondsin&label=Profile%20views&color=0e75b6&style=flat" alt="richmondsin" /> </p>
 
 - 👩‍💻 My interest lies in **Data Science**, **Machine Learning** and **Quant**.
-- 💪 I'm currently working on many different *ML projects*
+- 💪 I'm currently working on many different *AI projects*
 - 👨‍💻 All of my projects are available <a href="https://richmondsin.vercel.app/" target="_blank">here</a>.
 
 <h3 align="left">Connect with me:</h3>
